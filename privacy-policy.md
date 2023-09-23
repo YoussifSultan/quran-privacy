@@ -4,16 +4,7 @@ This Privacy Policy explains how iQuran collects, uses, and protects the persona
 
 ## Information Collection and Use
 
-iQuran may collect certain personal information from its users, including but not limited to:
-
-
-- Name
-- Email address
-
-- Device information
-- Usage data
-
-This information is collected for the purpose of improving the app's functionality, providing personalized experiences, and enhancing user satisfaction.
+iQuran doesn't collect certain personal information from its users
 
 ## Data Security
 
@@ -21,15 +12,15 @@ iQuran takes the security of your personal information seriously. We implement i
 
 ## Data Sharing
 
-iQuran does not sell, trade, or rent users' personal information to third parties. However, we may share your information with trusted service providers who assist us in operating our app and providing services to you. These service providers are obligated to keep your information confidential.
+iQuran does not sell, trade, or rent users' personal information to third parties. 
 
 ## Analytics and Cookies
 
-iQuran may use analytics tools and cookies to collect non-personal information about app usage. This information helps us understand user behavior, improve our services, and personalize user experiences.
+iQuran does't use analytics tools and cookies to collect non-personal information about app usage. 
 
 ## Children's Privacy
 
-iQuran does not knowingly collect personal information from children under the age of 13. If you believe that your child has provided us with personal information, please contact us immediately, and we will take steps to remove that information from our systems.
+iQuran does not knowingly collect personal information from children . If you believe that your child has provided us with personal information, please contact us immediately, and we will take steps to remove that information from our systems.
 
 ## Changes to this Privacy Policy
 
@@ -37,4 +28,4 @@ iQuran reserves the right to update or modify this Privacy Policy at any time. A
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [email address].
+If you have any questions or concerns about this Privacy Policy, please contact us at osamakhalil2876@gmail.com.
